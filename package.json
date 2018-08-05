@@ -34,7 +34,7 @@
     "inherits": "=2.0.1"
   },
   "devDependencies": {
-    "bitcore-build": "git://github.com/bitpay/bitcore-build.git",
+    "bitcore-lib": "*",
     "brfs": "^1.2.0",
     "chai": "^2.3.0",
     "gulp": "^3.8.10",
